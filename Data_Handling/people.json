@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Betty",
+        "age": 40,
+        "height": 5.9,
+        "Gender": "Female"
+    },
+    {
+        "name": "Betty",
+        "age": 40,
+        "height": 5.9,
+        "Gender": "Female"
+    },
+    {
+        "name": "Jackson",
+        "age": 35,
+        "height": 6.1,
+        "Gender": "Male"
+    },
+    {
+        "name": "Sophia",
+        "age": 20,
+        "height": 5.7,
+        "Gender": "Female"
+    }
+]
